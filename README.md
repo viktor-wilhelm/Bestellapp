@@ -167,15 +167,13 @@ Mampfen-rando/
 
 Dieses Projekt steht unter der [MIT Lizenz](LICENSE).
 
-## 👨‍💻 Autor
+## � Contact
 
-**Viktor Rock** - [@rockviktor78](https://github.com/rockviktor78)
+**Viktor Wilhelm**
 
-## 📞 Kontakt
-
-- 📧 Email: [Ihre Email hier]
-- 🌐 Website: [Ihre Website hier]
-- 📱 Social Media: [Links hier]
+- 📧 Email: [hello@viktor-wilhelm.de](mailto:hello@viktor-wilhelm.de)
+- 🐙 GitHub: [viktor-wilhelm](https://github.com/viktor-wilhelm)
+- 💼 LinkedIn: [viktor-wilhelm](https://www.linkedin.com/in/viktor-wilhelm)
 
 ---
 
