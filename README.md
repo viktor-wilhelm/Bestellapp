@@ -96,8 +96,8 @@ Mampfen-rando/
 1. **Repository klonen**
 
    ```bash
-   git clone https://github.com/rockviktor78/Bestellapp.git
-   cd Bestellapp
+   git clone https://github.com/viktor-wilhelm/Mampfen-rando.git
+   cd Mampfen-rando
    ```
 
 2. **Live Server starten**
